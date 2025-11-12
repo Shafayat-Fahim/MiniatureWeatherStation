@@ -1,4 +1,4 @@
-### MiniatureWeatherStation
+### Miniature Weather Station
 
 In this repository, we will work on our Microprocessor, Interfacing and Assembly Language project, which involves constructing and running a Miniature Weather Station. This project is a **Miniature Weather Station** designed using an **ESP8266 + Mega2560 hybrid board** to collect, process, and upload environmental data to **ThingSpeak** over WiFi. It leverages multiple sensors to measure temperature, humidity, air quality (eCO₂ and TVOC), and wind speed.
 
